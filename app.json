@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5f58b45b-0a15-4cbc-86c6-7cef9c90e044"
+      }
+    },
+    "owner": "afi.hillman"
   }
 }
